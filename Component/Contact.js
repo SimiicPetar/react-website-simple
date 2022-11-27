@@ -28,28 +28,28 @@ class Contact extends Component {
                         </Figure.Caption>
                         <br/>
                         <FontAwesomeIcon icon={faAddressBook} inline/>
-                        <span> Liguria,
-                            Genova,
-                            Italy
+                        <span> 
+                            
+                            
                         </span>
 
                         <br/>
                         <br/>
 
                         <FontAwesomeIcon icon={faFacebookSquare}/>
-                        <span> @ZAHRA </span>
+                        <span>  </span>
 
                         <br/>
                         <br/>
 
                         <FontAwesomeIcon icon={faTwitter}/>
-                        <span> @ZAHRA90 </span>
+                        <span>  </span>
 
                         <br/>
                         <br/>
 
                         <FontAwesomeIcon icon={faInstagram}/>
-                        <span> @ZAHRA90 </span>
+                        <span>  </span>
                     </Figure>
                     <div style={{ height: '300px', width: '100%' }}>
                     <GoogleMapReact
