@@ -24,7 +24,7 @@ class Contact extends Component {
 
                         <Figure.Caption>
                             <FontAwesomeIcon icon={faMailBulk} inline/>
-                            <span> zahra69@gmail.com</span>
+                            <span></span>
                         </Figure.Caption>
                         <br/>
                         <FontAwesomeIcon icon={faAddressBook} inline/>
